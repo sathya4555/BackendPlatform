@@ -1,3 +1,6 @@
 [submodule "src/sns_sqs"]
 	path = src/sns_sqs
 	url = https://github.com/sathya4555/sns_sqs.git
+[submodule "src/DtoBase"]
+	path = src/DtoBase
+	url = https://github.com/sathya4555/DtoBase.git
