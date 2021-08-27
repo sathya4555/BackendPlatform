@@ -4,3 +4,6 @@
 [submodule "src/DtoBase"]
 	path = src/DtoBase
 	url = https://github.com/sathya4555/DtoBase.git
+[submodule "src/Dtos"]
+	path = src/Dtos
+	url = https://github.com/sathya4555/Dtos.git
