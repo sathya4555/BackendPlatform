@@ -7,3 +7,6 @@
 [submodule "src/Dtos"]
 	path = src/Dtos
 	url = https://github.com/sathya4555/Dtos.git
+[submodule "src/entity"]
+	path = src/entity
+	url = https://github.com/sathya4555/entity.git
