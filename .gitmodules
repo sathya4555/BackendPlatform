@@ -13,3 +13,6 @@
 [submodule "src/mappers"]
 	path = src/mappers
 	url = https://github.com/sathya4555/mappers.git
+[submodule "src/EntityBase"]
+	path = src/EntityBase
+	url = https://github.com/sathya4555/EntityBase.git
