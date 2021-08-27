@@ -10,3 +10,6 @@
 [submodule "src/entity"]
 	path = src/entity
 	url = https://github.com/sathya4555/entity.git
+[submodule "src/mappers"]
+	path = src/mappers
+	url = https://github.com/sathya4555/mappers.git
